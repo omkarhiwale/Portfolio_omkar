@@ -1,15 +1,15 @@
-                |
-                |
-                |
-                |
-                |
-                |    
-            \   |   /
-              \ |  /
-                \/
+                                              |
+                                              |
+                                              |
+                                              |
+                                              |
+                                              |    
+                                          \   |    /
+                                           \  |   /
+                                            \   /
+                                             \ /
 
-
---------checkout >>>>>     https://omkarhiwale.github.io/Portfolio_omkar/     <<<<<<<<------------------
+-------- checkout >>>>>  https://omkarhiwale.github.io/Portfolio_omkar/  <<<<<<<< ------------------
 
 
 
